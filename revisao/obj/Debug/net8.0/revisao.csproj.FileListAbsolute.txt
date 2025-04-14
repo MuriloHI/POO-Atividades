@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\POO Manha\revisao\bin\Debug\net8.0\revisao.exe
+C:\Users\aluno\Desktop\POO Manha\revisao\bin\Debug\net8.0\revisao.deps.json
+C:\Users\aluno\Desktop\POO Manha\revisao\bin\Debug\net8.0\revisao.runtimeconfig.json
+C:\Users\aluno\Desktop\POO Manha\revisao\bin\Debug\net8.0\revisao.dll
+C:\Users\aluno\Desktop\POO Manha\revisao\bin\Debug\net8.0\revisao.pdb
+C:\Users\aluno\Desktop\POO Manha\revisao\obj\Debug\net8.0\revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO Manha\revisao\obj\Debug\net8.0\revisao.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO Manha\revisao\obj\Debug\net8.0\revisao.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO Manha\revisao\obj\Debug\net8.0\revisao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO Manha\revisao\obj\Debug\net8.0\revisao.dll
+C:\Users\aluno\Desktop\POO Manha\revisao\obj\Debug\net8.0\refint\revisao.dll
+C:\Users\aluno\Desktop\POO Manha\revisao\obj\Debug\net8.0\revisao.pdb
+C:\Users\aluno\Desktop\POO Manha\revisao\obj\Debug\net8.0\revisao.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO Manha\revisao\obj\Debug\net8.0\ref\revisao.dll

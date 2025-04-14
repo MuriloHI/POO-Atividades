@@ -1,0 +1,14 @@
+E:\POO Manha\PrincipioSRP\bin\Debug\net8.0\PrincipioSRP.exe
+E:\POO Manha\PrincipioSRP\bin\Debug\net8.0\PrincipioSRP.deps.json
+E:\POO Manha\PrincipioSRP\bin\Debug\net8.0\PrincipioSRP.runtimeconfig.json
+E:\POO Manha\PrincipioSRP\bin\Debug\net8.0\PrincipioSRP.dll
+E:\POO Manha\PrincipioSRP\bin\Debug\net8.0\PrincipioSRP.pdb
+E:\POO Manha\PrincipioSRP\obj\Debug\net8.0\PrincipioSRP.GeneratedMSBuildEditorConfig.editorconfig
+E:\POO Manha\PrincipioSRP\obj\Debug\net8.0\PrincipioSRP.AssemblyInfoInputs.cache
+E:\POO Manha\PrincipioSRP\obj\Debug\net8.0\PrincipioSRP.AssemblyInfo.cs
+E:\POO Manha\PrincipioSRP\obj\Debug\net8.0\PrincipioSRP.csproj.CoreCompileInputs.cache
+E:\POO Manha\PrincipioSRP\obj\Debug\net8.0\PrincipioSRP.dll
+E:\POO Manha\PrincipioSRP\obj\Debug\net8.0\refint\PrincipioSRP.dll
+E:\POO Manha\PrincipioSRP\obj\Debug\net8.0\PrincipioSRP.pdb
+E:\POO Manha\PrincipioSRP\obj\Debug\net8.0\PrincipioSRP.genruntimeconfig.cache
+E:\POO Manha\PrincipioSRP\obj\Debug\net8.0\ref\PrincipioSRP.dll
