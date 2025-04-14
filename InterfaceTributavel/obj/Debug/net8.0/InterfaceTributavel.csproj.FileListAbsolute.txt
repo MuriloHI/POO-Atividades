@@ -1,0 +1,14 @@
+E:\POO Manha\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.exe
+E:\POO Manha\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.deps.json
+E:\POO Manha\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.runtimeconfig.json
+E:\POO Manha\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.dll
+E:\POO Manha\InterfaceTributavel\bin\Debug\net8.0\InterfaceTributavel.pdb
+E:\POO Manha\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.GeneratedMSBuildEditorConfig.editorconfig
+E:\POO Manha\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.AssemblyInfoInputs.cache
+E:\POO Manha\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.AssemblyInfo.cs
+E:\POO Manha\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.csproj.CoreCompileInputs.cache
+E:\POO Manha\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.dll
+E:\POO Manha\InterfaceTributavel\obj\Debug\net8.0\refint\InterfaceTributavel.dll
+E:\POO Manha\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.pdb
+E:\POO Manha\InterfaceTributavel\obj\Debug\net8.0\InterfaceTributavel.genruntimeconfig.cache
+E:\POO Manha\InterfaceTributavel\obj\Debug\net8.0\ref\InterfaceTributavel.dll

@@ -1,0 +1,14 @@
+E:\POO Manha\PrincipioLSP\obj\Debug\net8.0\PrincipioLSP.GeneratedMSBuildEditorConfig.editorconfig
+E:\POO Manha\PrincipioLSP\obj\Debug\net8.0\PrincipioLSP.AssemblyInfoInputs.cache
+E:\POO Manha\PrincipioLSP\obj\Debug\net8.0\PrincipioLSP.AssemblyInfo.cs
+E:\POO Manha\PrincipioLSP\obj\Debug\net8.0\PrincipioLSP.csproj.CoreCompileInputs.cache
+E:\POO Manha\PrincipioLSP\bin\Debug\net8.0\PrincipioLSP.exe
+E:\POO Manha\PrincipioLSP\bin\Debug\net8.0\PrincipioLSP.deps.json
+E:\POO Manha\PrincipioLSP\bin\Debug\net8.0\PrincipioLSP.runtimeconfig.json
+E:\POO Manha\PrincipioLSP\bin\Debug\net8.0\PrincipioLSP.dll
+E:\POO Manha\PrincipioLSP\bin\Debug\net8.0\PrincipioLSP.pdb
+E:\POO Manha\PrincipioLSP\obj\Debug\net8.0\PrincipioLSP.dll
+E:\POO Manha\PrincipioLSP\obj\Debug\net8.0\refint\PrincipioLSP.dll
+E:\POO Manha\PrincipioLSP\obj\Debug\net8.0\PrincipioLSP.pdb
+E:\POO Manha\PrincipioLSP\obj\Debug\net8.0\PrincipioLSP.genruntimeconfig.cache
+E:\POO Manha\PrincipioLSP\obj\Debug\net8.0\ref\PrincipioLSP.dll
