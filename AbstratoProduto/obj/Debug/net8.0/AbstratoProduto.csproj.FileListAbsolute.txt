@@ -1,0 +1,14 @@
+E:\POO Manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.exe
+E:\POO Manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.deps.json
+E:\POO Manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.runtimeconfig.json
+E:\POO Manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.dll
+E:\POO Manha\AbstratoProduto\bin\Debug\net8.0\AbstratoProduto.pdb
+E:\POO Manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.GeneratedMSBuildEditorConfig.editorconfig
+E:\POO Manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.AssemblyInfoInputs.cache
+E:\POO Manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.AssemblyInfo.cs
+E:\POO Manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.csproj.CoreCompileInputs.cache
+E:\POO Manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.dll
+E:\POO Manha\AbstratoProduto\obj\Debug\net8.0\refint\AbstratoProduto.dll
+E:\POO Manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.pdb
+E:\POO Manha\AbstratoProduto\obj\Debug\net8.0\AbstratoProduto.genruntimeconfig.cache
+E:\POO Manha\AbstratoProduto\obj\Debug\net8.0\ref\AbstratoProduto.dll
